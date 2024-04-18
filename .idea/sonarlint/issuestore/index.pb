@@ -1,5 +1,7 @@
 
-q
-A12.10.2023.(Обливанцев Георгий)Python327/main.py,2/4/2436f5c30fef62327c5c01f026308d3cfda434e4
-x
-H12.10.2023.(Обливанцев Георгий)Python327/parser_news.py,7/1/71f63db4b38988ec0bf699e16b0aa357d225ee81
+@
+requirements.txt,1/9/19359a61ae2446b51b549167b014da2fcf265768
+P
+ python web parser/parser_news.py,b/0/b045fb3fc35443fcf9f6bebed83cacfca9603a45
+I
+python web parser/main.py,2/b/2b721b273af349b52601736fa3c50cb0e38da372
