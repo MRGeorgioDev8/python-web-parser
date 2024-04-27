@@ -16,7 +16,7 @@ def get_data(html):
     connected = soup.find_all("div", class_="news-list news__content")
     for connected in connected:
         try:
-            name = connected.find("h2").text.strip()
+            name = connected.find("div").text.strip()
         except ValueError:
             name = ""
 
